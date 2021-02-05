@@ -1,7 +1,7 @@
 ---
 title: README
+date: 2021-02-05T05:18:16.194Z
 ---
-
 # VuePress-NetlifyCMS
 
 ![GitHub](https://img.shields.io/github/license/DemoMacro/VuePress-NetlifyCMS)
@@ -47,7 +47,7 @@ You'll need to add this to the `<head>` of your CMS index page at /admin/index.h
 ></script>
 ```
 
-Add the following script before the closing body tag of your site's main index page using Netlify's Script Injection feature.
+Add the following script before the closing body tag of your site's main index page using Netlify's Script Injection feature. Hullalla
 
 ```html
 <script>
@@ -67,5 +67,5 @@ Add the following script before the closing body tag of your site's main index p
 
 ## Donate
 
-- [Alipay](https://qr.alipay.com/fkx06887yqy4k3q5kemidbc)
-- [Paypal](https://www.paypal.me/DemoMacro)
+* [Alipay](https://qr.alipay.com/fkx06887yqy4k3q5kemidbc)
+* [Paypal](https://www.paypal.me/DemoMacro)
